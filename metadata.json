@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge Online Training Management System",
+  "description": "Enterprise online training management portal allowing employees to view corporate sessions and submit training requests by category, with an admin console for scheduling and request triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
